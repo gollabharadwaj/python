@@ -1,5 +1,3 @@
-from re import A
-
 
 def area(r):
     a=0 or None
